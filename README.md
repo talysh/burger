@@ -42,4 +42,4 @@ Email: taleh.aliyev@gmail.com
 
 ## Screenshot
 
-![image](https://github.com/talysh/burger/blob/main/Assets/samplescreen.png)
+![image](https://github.com/talysh/burger/tree/main/public/assets/img)
